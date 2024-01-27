@@ -16,7 +16,7 @@ This is a basic calculator application implemented in Python using the Tkinter l
 ## Usage
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/abdelwahedjaouhari/calculator-tkinter.git
+    git clone https://github.com/abdelwahedjaouhari/Calculator.git
     ```
 2. **Navigate to the project directory:**
     ```bash
