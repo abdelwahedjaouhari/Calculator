@@ -29,7 +29,7 @@ This is a basic calculator application implemented in Python using the Tkinter l
 4. **Use the calculator GUI to perform arithmetic calculations.**
 
 ## Screenshots
-![Calculator Screenshot](screenshot/Screenshot 26-01-2024 18.39.55.png)
+![Calculator Screenshot](screenshots/calculator_screenshot.png)
 
 ## Contributing
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
