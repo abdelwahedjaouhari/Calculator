@@ -24,7 +24,7 @@ This is a basic calculator application implemented in Python using the Tkinter l
     ```
 3. **Run the calculator:**
     ```bash
-    python mein.py
+    python main.py
     ```
 4. **Use the calculator GUI to perform arithmetic calculations.**
 
