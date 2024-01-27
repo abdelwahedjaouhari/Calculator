@@ -20,7 +20,7 @@ This is a basic calculator application implemented in Python using the Tkinter l
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd calculator-tkinter
+    cd calculator
     ```
 3. **Run the calculator:**
     ```bash
